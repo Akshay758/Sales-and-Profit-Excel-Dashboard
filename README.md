@@ -1,6 +1,6 @@
 # 📊 Sales and Profit Dashboard
 
-![Dashboard Preview](Screenshot (62).png)
+![Dashboard Preview](./Screenshot(62).png)
 
 > An interactive Excel dashboard providing a comprehensive overview of sales performance, profit trends, and customer insights — filterable by category, year, and month.
 
